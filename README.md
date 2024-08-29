@@ -2,4 +2,3 @@
 <h3 align="center">🎓Estudante e 💻Desenvolvedora Iniciante </h3>
  
  - 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFCE
- - 📨 Como falar comigo: araujimaria8@gmail.com
