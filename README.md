@@ -1,10 +1,6 @@
 <h1 align="center"> Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> é a Carolina</h1>
 <h3 align="center">🎓Estudante e 💻Desenvolvedora Iniciante </h3>
  
- - 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFCE
-   - Sobre mim: Olá! Você pode me chamar de Dotty.ˎˊ˗
-- tenho 19 anos no momento e estou cursando ADS.
-- foco em desenvolvimento web front-end
 - [Instagram](https://www.instagram.com/cwhaaw_) | [StrawPage](https://fukuroudotty.straw.page) | [Patreon](https://patreon.com/Fukuroudotty) | [Bluesky](https://bsky.app/profile/fukuroudotty.bsky.social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fukuroudotty&layout=compact&theme=dark&langs_count=10)
