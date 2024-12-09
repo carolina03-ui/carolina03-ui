@@ -16,7 +16,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://www.instagram.com/linafleurs_/?next=%2F">
+    <a href = "https://www.instagram.com/linafleurs_/">
     </a>
 </div>
 
