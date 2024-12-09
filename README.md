@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5cac2&size=20&center=true&vCenter=true&width=1000&lines=-+Olá!;-+Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolina03-ui&layout=compact&theme=dark&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolina03-ui&show_icons=true&theme=dark&count_show_icons=true&scale=0.8_private=true&hide=contribs,prs)
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
