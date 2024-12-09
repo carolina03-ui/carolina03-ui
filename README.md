@@ -1,41 +1,34 @@
 <h1 align="center"> Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> é a Carolina</h1>
 <h3 align="center">🎓Estudante e 💻Desenvolvedora Iniciante </h3>
-## Faaaala dev, Luigi Aqui!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=388f65&height=60&section=header"/>
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=388f65&size=20&center=true&vCenter=true&width=1000&lines=-+Olá!;-+Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&count_private=true&hide_border=true&title_color=388f65&icon_color=388f65&text_color=c9d1d9&bg_color=0d1117" alt="Taíssa Moreira github stats" /> 
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&hide_border=true&title_color=388f65&text_color=388f65&bg_color=0d1117" />
+</div>
+
+<p align="center">
+   <br> ${\textsf{\color{#388f65}- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗}}$ 
+ <br>
+  ${\textsf{\color{#388f65}- tenho 19 anos no momento e estou cursando ADS.}}$ 
+ <br>
+  ${\textsf{\color{#388f65}- foco em desenvolvimento web front-end e design.}}$ 
+
+  <br>
+  ——⟣　　<a href="https://www.instagram.com/cwhaaw_">Instagram</a>　　　　<a href="https://bsky.app/profile/fukuroudotty.bsky.social">Bluesky</a>　　⟢——
+ <br>
+  </p>
+
+<div> <style="display: inline_block"><br>
+  <p align="center">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </p>
 </div>
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=388f65&height=60&section=footer"/>
